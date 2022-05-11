@@ -1,0 +1,15 @@
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\LagrangeInterpolacio.exe
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\LagrangeInterpolacio.deps.json
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\LagrangeInterpolacio.runtimeconfig.json
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\LagrangeInterpolacio.runtimeconfig.dev.json
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\LagrangeInterpolacio.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\ref\LagrangeInterpolacio.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\bin\Debug\net5.0\LagrangeInterpolacio.pdb
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.AssemblyInfoInputs.cache
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.AssemblyInfo.cs
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.csproj.CoreCompileInputs.cache
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\ref\LagrangeInterpolacio.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.pdb
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio\LagrangeInterpolacio\obj\Debug\net5.0\LagrangeInterpolacio.genruntimeconfig.cache
