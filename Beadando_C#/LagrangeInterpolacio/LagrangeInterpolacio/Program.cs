@@ -20,14 +20,9 @@ namespace LagrangeInterpolacio
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-
-            // Using the interpolate function to obtain
-            // a data point corresponding to x=3
-
-            /*  */
+            /* Az interpolate metódus használata */
             Console.Write("Value of f(3) is : " +
                           (int)interpolate(f, 3, 4));
-
 
             /* Idomeres Vege */
             stopwatch.Stop();
