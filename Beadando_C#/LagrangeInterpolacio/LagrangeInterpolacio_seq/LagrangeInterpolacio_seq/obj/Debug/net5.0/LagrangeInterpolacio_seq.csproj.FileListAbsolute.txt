@@ -1,0 +1,16 @@
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\LagrangeInterpolacio_seq.exe
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\LagrangeInterpolacio_seq.deps.json
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\LagrangeInterpolacio_seq.runtimeconfig.json
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\LagrangeInterpolacio_seq.runtimeconfig.dev.json
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\LagrangeInterpolacio_seq.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\ref\LagrangeInterpolacio_seq.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\bin\Debug\net5.0\LagrangeInterpolacio_seq.pdb
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.csproj.AssemblyReference.cache
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.AssemblyInfoInputs.cache
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.AssemblyInfo.cs
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.csproj.CoreCompileInputs.cache
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\ref\LagrangeInterpolacio_seq.dll
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.pdb
+C:\Users\csong\OneDrive\Asztali gép\Beadando_C#\LagrangeInterpolacio_seq\LagrangeInterpolacio_seq\obj\Debug\net5.0\LagrangeInterpolacio_seq.genruntimeconfig.cache
